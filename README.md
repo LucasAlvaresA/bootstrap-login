@@ -1,6 +1,6 @@
-# Login com Bootstrap
+# Login Bootstrap
 
->Pagina de login criada com Bootstrap
+>Login page created with Bootstrap
 
 [View Demo](https://lucasalvaresa.github.io/bootstrap-login/)
 
